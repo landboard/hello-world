@@ -50,9 +50,6 @@ def factorial(n):
 
 '''Hellowrote'''
 
-'We are chat'
-
-'hi'
 
 if __name__ == "__main__":
     import doctest
